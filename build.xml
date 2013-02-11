@@ -28,5 +28,6 @@
 	<import file="build-properties.xml"/>
 	<import file="build-groovy.xml"/>
 	<import file="build-test.xml"/>
+	<import file="build-sonar.xml"/>
 
 </project>
